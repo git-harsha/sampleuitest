@@ -1,0 +1,7 @@
+<suite name="example suite 1" verbose="10" >
+  <test name="Sample UI Test" >
+    <classes>
+      <class name="test.SwagLabsTest"/>
+    </classes>
+ </test>
+</suite>
